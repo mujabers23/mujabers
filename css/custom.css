@@ -11,6 +11,21 @@
     border: 2;
 
 }
+.btn-secondary{
+    background :none;
+    border: 1px solid #4a384a;
+    padding: 15px 25px 15px 25px;
+    font-size: 18px;
+    font-weight: 500;
+    color: #0d0a0d;
+
+}
+.btn-secondary:hover{
+    background :none;
+    border: 1px solid #222a50;
+    color: #5b3d5b;
+
+}
 .heromujabers h1{
     font-family: 'Roboto', sans-serif;
     font-weight: bold;
@@ -21,24 +36,6 @@
     font-weight: 400;
     color: rgb(0, 6, 6);
 }
-.btn-primary:hover{
-    background :#75b48c;
-    padding: 15px 20px 15px 30px;
-    font-size: 14;
-    font-weight: 300;
-    border: 1 solid;
-
-}
-.btn-secondary{
-    background :#c6c2cb;
-    padding:15px 20px 15px 30px ;
-    font-size: 15;
-    font-weight: 300;
-    border: 1;
-    color: black;
-
-}
 .navbar-nav .nav-link{
-    color: rgb(15, 14, 14);
+    color:rgb(0, 6, 6);
 }
-
